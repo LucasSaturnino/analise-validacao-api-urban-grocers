@@ -1,20 +1,77 @@
-**Objetivo**
+📊 Análise e Validação de API – Urban Grocers
 
-Aplicar técnicas desenvolvidas no curso de Analista de testes/QA da TripleTen.
+📌 Descrição
 
-**Introdução**
+Este projeto tem como objetivo analisar e validar o funcionamento da API do sistema Urban Grocers, com foco na verificação de endpoints, validação de respostas e identificação de inconsistências no comportamento do back-end.
 
-A terceira sprint objetiva testes de API e relatório de bug no Jira.
+A abordagem envolve testes estruturados de API, permitindo avaliar a integridade dos dados trafegados e a conformidade com os requisitos definidos.
 
-**Resultado**
+🎯 Objetivos
 
-O projeto consiste em analisar os requisitos do back-end e documentações da API no Apidoc do “Urban Grocers”. E criar um checklist para testar as funcionalidades de trabalho com kits, trabalho com serviços de entregas e trabalho com carrinho, utilizando conceitos de HTPP, JSON, RESET e técnicas de designer de testes de API, como criar e enviar solicitação via Postman, criar relatório de bug, e ler a documentação API.
+Validar endpoints da API
 
-1.	Planilha com os checklists:
-   
+Verificar integridade e estrutura das respostas (JSON)
+
+Identificar falhas no comportamento do back-end
+
+Garantir conformidade com os requisitos da API
+
+🧠 Metodologia
+
+🔹 Análise de documentação
+
+Estudo da documentação da API para compreensão dos endpoints, parâmetros, métodos HTTP e estrutura das respostas.
+
+🔹 Testes de API
+
+Execução de testes utilizando:
+
+Métodos HTTP (GET, POST, PUT, DELETE)
+
+Validação de respostas em JSON
+
+Testes positivos e negativos
+
+Verificação de status codes
+
+🔍 Atividades realizadas
+
+Análise de requisitos do back-end
+
+Interpretação da documentação da API
+
+Criação de checklist de testes
+
+Execução de requisições via Postman
+
+Identificação e registro de bugs
+
+📎 Artefatos do projeto
+
+✅ Checklist de testes
+
 ![image](https://github.com/LucasSaturnino/-Tripleten-Sprint-03/assets/149327395/d5fb5efd-ddd9-468b-9519-a5175d0223bd)
 
-2.	Links dos relatórios de bug no Jira:
-   
+🐞 Relatórios de bugs
+
+Acompanhamento realizado via Jira:
+
+🔗 Acessar bugs reportados
+
 https://lwsaturnino.atlassian.net/jira/software/c/projects/LS3S/issues/?filter=allissues 
 
+📈 Resultados
+
+A execução dos testes permitiu validar o funcionamento dos endpoints e identificar inconsistências no comportamento da API, contribuindo para a melhoria da qualidade e confiabilidade do sistema.
+
+🛠️ Ferramentas utilizadas
+
+Postman
+
+Jira
+
+Testes manuais
+
+📊 Evolução para Análise de Dados
+
+Este projeto contribuiu para o desenvolvimento de habilidades analíticas, como validação de dados, interpretação de respostas em JSON e identificação de padrões, competências fundamentais para análise de dados.
